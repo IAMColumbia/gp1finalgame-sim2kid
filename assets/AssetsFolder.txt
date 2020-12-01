@@ -1,1 +1,5 @@
 Asset Log
+
+Has a Physics material to handel bouncing
+Includes temp textures
+Scripts to control the player and to manage the Arc Generation
